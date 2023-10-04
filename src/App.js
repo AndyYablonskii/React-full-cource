@@ -1,19 +1,8 @@
-import Navbar from "./Navbar";
-import Home from "./Home";
-
+import React from "react";
 function App() {
 
-
-  const title = "Welcome to the new blog";
-
   return (
-    <div className="App">
-      <p>{title}</p>
-      <Navbar />
-      <div className="content">
-        <Home />
-      </div>
-    </div>
+    <div></div>
   );
 }
 
